@@ -1,6 +1,6 @@
 ## A To-Do_List App created using Flask in Python along with HTML
 
-Created using Flask in Python and HTML files has the following components:
+Created using Flask in Python and HTML files and has the following components:
 
 1. Flask framework: Flask is a popular web framework used to build web applications in Python. It is used to create the web application and handle HTTP requests and responses.
 
@@ -13,7 +13,7 @@ Here are the steps to create a basic ToDo App using Flask:
   1.  Install Flask and SQLite
   2.  Create a Flask app object and import necessary libraries
   3.  Create a database connection and create a table to store ToDo list items
-  4.  Define the routes for the ToDo app:
+  4.  Define the routes for the ToDo app
   5.  Define the home page route to retrieve ToDo list items from the database and render the HTML template
   6.  Define the route to add a new task to the database and redirect to the home page
   7.  Define the route to delete a task from the database and redirect to the home page
