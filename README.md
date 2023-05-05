@@ -1,4 +1,4 @@
-## A ToDo App created using Flask in Python along with HTML
+## A To-Do_List App created using Flask in Python along with HTML
 
 Created using Flask in Python and HTML files has the following components:
 
