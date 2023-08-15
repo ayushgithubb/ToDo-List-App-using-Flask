@@ -1,4 +1,4 @@
-## A To-Do_List App created using Flask in Python along with HTML
+## FlaskTask: Streamlined Task Manager App created using Flask in Python along with HTML
 
 Created using Flask in Python and HTML files and has the following components:
 
@@ -20,4 +20,4 @@ Here are the steps to create a basic ToDo App using Flask:
   8.  Create HTML templates to render the user interface of the ToDo app:
   9.  Create an index.html file to display the ToDo list items and a form to add a new task
   10. Use Jinja2 templating engine to display the dynamic content in the HTML template
-  11. Run the Flask app and test the ToDo app by adding and deleting tasks.
+  11. Run the Flask app and test the app by adding and deleting tasks.
